@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">WasmKeep</title>
+  <rect width="512" height="512" rx="112" fill="#0f3d3e"/>
+  <!-- A keep (tower with merlons) holding a stacked database -->
+  <path fill="#e8f4f1" d="M128 104h52v48h40v-48h72v48h40v-48h52v300a28 28 0 0 1-28 28H156a28 28 0 0 1-28-28z"/>
+  <g fill="#1f8a70">
+    <path d="M176 218a80 22 0 0 1 160 0v34a80 22 0 0 1-160 0z"/>
+    <path d="M176 272a80 22 0 0 0 160 0v34a80 22 0 0 1-160 0z"/>
+  </g>
+  <path fill="#f2a541" d="M176 326a80 22 0 0 0 160 0v34a80 22 0 0 1-160 0z"/>
+  <ellipse cx="256" cy="218" rx="80" ry="22" fill="#2fb38f"/>
+</svg>
